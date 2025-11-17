@@ -29,7 +29,7 @@ Este proyecto permite crear, visualizar, editar y eliminar registros de libros d
 2. Clonar este repositorio dentro de la carpeta `htdocs` de XAMPP.  
 3. Iniciar los módulos **Apache** y **MySQL** desde el panel de control de XAMPP.  
 4. Importar el archivo SQL ubicado en la carpeta `dbf/` dentro de **phpMyAdmin** para crear la base de datos.  
-5. Abrir el navegador y acceder a:  http://localhost/BookManager/src/index.php
+5. Abrir el navegador y acceder a:  http://localhost/BookManager/src/index.html
 
 ---
 
