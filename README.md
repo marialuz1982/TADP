@@ -19,7 +19,7 @@ Este proyecto permite crear, visualizar, editar y eliminar registros de libros d
 📦 BookManager  
 ├── src/ → Código fuente (HTML, CSS, JS, PHP)  
 ├── dbf/ → Archivo .sql con la estructura de la base de datos  
-└── README.md → Este archivo  
+└── README.md 
 
 ---
 
